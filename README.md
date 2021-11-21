@@ -25,6 +25,6 @@
   <a href="https://www.https://www.linkedin.com/in/felipe-s-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   </div>
   
-  ![Snake animation](https://github.com/FelipeSilva-developer/FelipeSilva/blob/main/.github/workflows/cobrinha.svg)
+  ![Snake animation](https://github.com/FelipeSilva-developer/FelipeSilva/blob/c4c8d6217474d192cb8f3754a51aa52e4512b922/.github/workflows/cobrinha.yml)
 
 
