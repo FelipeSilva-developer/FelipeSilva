@@ -1,9 +1,9 @@
 ## Hello, i'm Felipe silva 🇧🇷
 
 👨‍🎓 - Computer Science (4-semester) 
-📚 - Studying SQL and JAVA
-🧠 - Basic English
-⭐ Whoever plants a lot, reaps a lot !! ⭐
+<br>📚 - Studying SQL and JAVA
+<br>🧠 - Basic English
+<br>⭐ Whoever plants a lot, reaps a lot !! ⭐
 
 ##
 <div align="center">
