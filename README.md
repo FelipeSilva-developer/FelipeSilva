@@ -1,7 +1,7 @@
 ## Hello, i'm Felipe silva 🇧🇷
 
 👨‍🎓 - Computer Science (5-semester) 
-<br>📚 - Studying SQL and JAVA
+<br>📚 - Studying HTML, CSS and JAVASCRIPT
 <br>🧠 - Basic English
 <br>⭐ Whoever plants a lot, reaps a lot !! ⭐
 
@@ -16,6 +16,7 @@
   <img align="center" alt="felipe-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="felipe-JAVASCRIPT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   </div>
   
   ##
