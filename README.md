@@ -1,7 +1,7 @@
 ## Hello, i'm Felipe silva 🇧🇷
 
 👨‍🎓 - Computer Science (5-semester) 
-<br>📚 - Studying HTML, CSS and JAVASCRIPT
+<br>📚 - Studying HTML, CSS, JAVASCRIPT and BOOTSTRAP
 <br>🧠 - Basic English
 <br>⭐ Whoever plants a lot, reaps a lot !! ⭐
 
