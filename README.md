@@ -2,7 +2,7 @@
 
 👨‍🎓 - Computer Science (5-semester) 
 <br>📚 - Studying HTML, CSS, JAVASCRIPT and BOOTSTRAP
-<br>🧠 - Basic English
+<br>🧠 - intermediary English
 <br>⭐ Whoever plants a lot, reaps a lot !! ⭐
 
 ##
