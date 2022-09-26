@@ -1,6 +1,6 @@
 ## Hello, i'm Felipe silva 🇧🇷
 
-👨‍🎓 - Computer Science (5-semester) 
+👨‍🎓 - Computer Science (6-semester) 
 <br>📚 - Studying HTML, CSS, JAVASCRIPT and BOOTSTRAP
 <br>🧠 - intermediary English
 <br>⭐ “Everyone in this country should learn how to program because it teaches you how to think” – Steve Jobs ⭐
